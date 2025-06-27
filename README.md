@@ -37,3 +37,46 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm start
+```
+
+## Usage
+
+Provide examples for using your project. Include code snippets or screenshots as needed.
+
+## Configuration
+
+Explain any environment variables, configuration files, or customization steps.
+
+## Screenshots
+
+If applicable, add screenshots to showcase your project:
+
+## Roadmap
+
+ - Milestone 1
+ - Milestone 2
+ - Milestone 3
+
+## Contributing
+
+Constributions are welcome! Please follow the steps below:
+1. For the repo
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open the pull request
+
+## License
+
+Write any licensing information here.
+
+## Contact
+
+Leland Knight - @lelandknight
+Project Link: https://github.com/your-username/your-repo-name
+
+## Acknowledgements
+
+- Resource 1
+- Resource 2
+- Awesome Tool
